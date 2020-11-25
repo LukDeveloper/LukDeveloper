@@ -1,5 +1,6 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, I'm Luk</h1>
- <p align="center"><br/>
+
+<p align="center"><br/>	
    <a href="https://www.linkedin.com/in/lucas-martins-9a6705177/">
     <img src="https://img.shields.io/badge/linkedin-Lucas Martins-blue">
   </a>
@@ -7,6 +8,10 @@
   <a href="lmartins3007@gmail.com">
     <img src="https://img.shields.io/badge/gmail-Lucas Martins_-red">
   </a>
+  
+ <!-- <a >
+    <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=visitor&query=value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Faeris170.aeris170%2Freadme">
+  </a> -->
 </p>
 
 <h3 align="center">Student of Game Developer and Data Science </h3>
@@ -86,5 +91,7 @@
 <a href=https://instagram.com/sachuverma_ target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg alt="sachuverma_" height="40" width="40" /></a>
 </p>
 -->
+
+![Luk's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LukDeveloper&show_icons=true)
 
 ⭐️ From [Lucas Martins](https://github.com/LukDeveloper) <img src="https://media.giphy.com/media/QW9Oe9EY1o2zE649Cc/giphy.gif" width="60">
