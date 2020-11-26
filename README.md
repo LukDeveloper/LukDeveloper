@@ -6,7 +6,7 @@
   </a>
   
   <a href="lmartins3007@gmail.com">
-    <img src="https://img.shields.io/badge/gmail-Lucas Martins_-red">
+    <img src="https://img.shields.io/badge/gmail-LMartins_-red">
   </a>
   
  <!-- <a >
@@ -23,8 +23,8 @@
 
 
 - 🔭 I’m currently working on **Personal Projects**
-- 🌱 I’m currently learning ... **python with Data Science**
-- 💬 Ask me about ... **Game Develpoment**
+- 🌱 I’m currently learning ... **Python with Data Science**
+- 💬 Ask me about ... **Game Development**
 - 😄 Employement ... **Open for opportunities**
 - ⚡ Fun fact ... **Games**❤
 - 📫 How to reach me **lmartins3007@gmail.com**
