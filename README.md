@@ -74,9 +74,9 @@
 <h4>Desktop Environment: </h4>
 <p align="left">
   <img style="margin: auto;" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png" alt=vscode width="60" height="60"/>
-  <!--<img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/vsc.png" alt=vs width="60" height="60"/>
-  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/atom.png" alt=atom width="60" height="60"/>
-  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/linux.png" alt=linux width="60" height="60"/>
+  <img style="margin: auto;" src="https://img.icons8.com/ios-filled/50/000000/unity.png" alt=unity width="60" height="60"/>
+  <img style="margin: auto;" src="https://img.icons8.com/ios-filled/50/000000/unreal-engine.png" alt=unrealengine width="60" height="60"/>
+  <img style="margin: auto;" src="https://img.icons8.com/color/48/000000/windows-10.png" alt=wm width="60" height="60"/><!--
   <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/ubuntu.png" alt=ubuntu width="60" height="60"/>
   <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/win10.png" alt=windows10 width="60" height="60"/>-->
 </p>
