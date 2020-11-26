@@ -29,13 +29,13 @@
 - ⚡ Fun fact ... **Games**❤
 - 📫 How to reach me **lmartins3007@gmail.com**
 <h4>Programming Languages: </h4>
- <!--
+
 <p align="left">
- <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/cpp.png" alt=cplusplus width="60" height="60"/>
+ <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt=cplusplus width="60" height="60"/> <!--
  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/c.png" alt=c width="60" height="60"/>
- <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/python.png" alt=python width="60" height="60"/>
+ <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/python.png" alt=python width="60" height="60"/>-->
 </p> 
--->
+
 
 <!-- 
 <h4>Skills and Tools: </h4>
