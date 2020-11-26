@@ -36,7 +36,7 @@
  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt=c++ width="60" height="60"/>
  <img src="https://img.icons8.com/color/48/000000/python.png" alt=python width="60" height="60"/>
  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt=java width="60" height="60"/>
- ![1200px-Lua-Logo svg](https://user-images.githubusercontent.com/46009433/100387577-3068a200-3007-11eb-8688-281d826b5b72.png)
+ <img src="https://user-images.githubusercontent.com/46009433/100387577-3068a200-3007-11eb-8688-281d826b5b72.png" alt=lua width="60" height="60"/>
 </p> 
 
 
