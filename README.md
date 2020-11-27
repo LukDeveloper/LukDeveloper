@@ -14,7 +14,7 @@
   </a> -->
 </p>
 
-<h3 align="center">Student of Game Developer and Data Science </h3>
+<h3 align="center">Game development student and Data Science </h3>
 <h3 align="center">Systems Analysis and Development(Graduated in 2020)</h3>
 <!-- <p align="left"> <img src=https://komarev.com/ghpvc/?username=sachinverma53121 alt=sachinverma53121/></p> -->
 
