@@ -5,7 +5,7 @@
     <img src="https://img.shields.io/badge/linkedin-Lucas Martins-blue">
   </a>
   
-  <a href="">
+  <a >
     <img src="https://img.shields.io/badge/gmail-lmartins3007@gmail.com-red">
   </a>
   
