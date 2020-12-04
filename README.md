@@ -5,8 +5,8 @@
     <img src="https://img.shields.io/badge/linkedin-Lucas Martins-blue">
   </a>
   
-  <a href="lmartins3007@gmail.com">
-    <img src="https://img.shields.io/badge/gmail-LMartins_-red">
+  <a href="">
+    <img src="https://img.shields.io/badge/gmail-lmartins3007@gmail.com-red">
   </a>
   
  <!-- <a >
