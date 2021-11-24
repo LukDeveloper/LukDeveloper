@@ -71,4 +71,4 @@
 
 ![Luk's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LukDeveloper&show_icons=true)
 
-⭐️ From [Lucas Martins](https://github.com/LukDeveloper) <img src="https://media.giphy.com/media/QW9Oe9EY1o2zE649Cc/giphy.gif" width="60">
+⭐️ From [Lucas Martins](https://github.com/LukDeveloper) <iframe src="https://gifer.com/embed/ZJFD" width=480 height=423.158 frameBorder="0" allowFullScreen></iframe><p><a href="https://gifer.com" width="60">
