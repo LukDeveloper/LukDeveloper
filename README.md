@@ -71,4 +71,4 @@
 
 ![Luk's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LukDeveloper&show_icons=true)
 
-⭐️ From [Lucas Martins](https://github.com/LukDeveloper)  <img src="https://gifer.com/embed/ZJFD.gif" width="60" height="60"/>
+⭐️ From [Lucas Martins](https://github.com/LukDeveloper)
