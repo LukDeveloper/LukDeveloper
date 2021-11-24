@@ -69,6 +69,6 @@
 </p>
 -->
 
-![Luk's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LukDeveloper&show_icons=true)
+![Luk's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LukDeveloper&show_icons=true&theme=radical)
 
 ⭐️ From [Lucas Martins](https://github.com/LukDeveloper)
