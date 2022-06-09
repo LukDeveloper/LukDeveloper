@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="10px">, I'm Luk</h1>
+<h1 align="center">Hi, I'm Luk</h1> <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="10px">
 
 <p align="center"><br/>	
    <a href="https://www.linkedin.com/in/lucas-martins-9a6705177/">
