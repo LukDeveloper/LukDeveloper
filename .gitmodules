@@ -1,0 +1,6 @@
+[submodule "LukDeveloper/themes/contrast-hugo"]
+	path = LukDeveloper/themes/contrast-hugo
+	url = https://github.com/niklasbuschmann/contrast-hugo.git
+[submodule "LukDeveloper/public"]
+	path = LukDeveloper/public
+	url = https://github.com/LukDeveloper/LukDeveloper.github.io

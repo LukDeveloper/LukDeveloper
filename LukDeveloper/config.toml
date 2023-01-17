@@ -1,0 +1,6 @@
+baseURL = 'https://lukdeveloper.github.io/'
+languageCode = 'en-us'
+ title = "My new blog made with Hugo: LukDeveloper"
+theme = "contrast-hugo"
+[permalinks]
+  posts = "/:filename/"
