@@ -48,16 +48,6 @@
 -->
 </p> 
 
-
-<h4>Desktop Environment: </h4>
-<p align="left">
-  <img style="margin: auto;" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png" alt=vscode width="60" height="60"/>
-  <img style="margin: auto;" src="https://img.icons8.com/ios-filled/50/000000/unity.png" alt=unity width="60" height="60"/>
-  <img style="margin: auto;" src="https://img.icons8.com/ios-filled/50/000000/unreal-engine.png" alt=unrealengine width="60" height="60"/>
-  <img style="margin: auto;" src="https://img.icons8.com/color/48/000000/windows-10.png" alt=wm width="60" height="60"/>  
-</p>
-
-
 <!--
 <p align="center">
 	<img style="margin: auto;" src= alt= /> 
