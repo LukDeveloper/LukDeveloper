@@ -4,14 +4,6 @@
    <a href="https://www.linkedin.com/in/lucas-martins-9a6705177/">
     <img src="https://img.shields.io/badge/linkedin-Lucas Martins-blue">
   </a>
-  
-  <a >
-    <img src="https://img.shields.io/badge/gmail-lmartins3007@gmail.com-red">
-  </a>
-  
- <!-- <a >
-    <img src="">
-  </a> -->
 </p>
 
 <h3 align="center">Game development student and Data Science </h3>
